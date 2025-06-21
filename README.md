@@ -5,7 +5,7 @@ Welcome to the GitHub repository for the **Numerical Method** course, **CSE330**
 
 This course is taught in **Python** by my esteemed instructors:
 - Theory: Mr. Towshik Anam Taj **(TAT)**
-- Laboratory: Mr. _ **(_)** and Mr. _ **(_)**
+- Laboratory: Ms. Anika Priodorshinee Mrittika **(APM)** and Mr. Sahib Kowsar **(SHBK)**
 
 
 ## ⚠️ Academic Integrity Policy
