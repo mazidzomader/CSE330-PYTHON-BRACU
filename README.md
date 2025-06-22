@@ -1,7 +1,7 @@
 # <h1 align = "center">CSE330</h1>
 ## <h1 align = "center">NUMERICAL METHODS</h1>
 # <h1 align = "center">BRAC University - Summer 2025</h1>
-Welcome to the GitHub repository for the **Numerical Method** course, **CSE330**, at **BRAC University** for the **Summer 2025** semester.
+Welcome to the GitHub repository for the **Numerical Method** course, **CSE330**, taught at **BRAC University** for the **Summer 2025** semester.
 
 This course is taught in **Python** by my esteemed instructors:
 - Theory: Mr. Towshik Anam Taj **(TAT)**
