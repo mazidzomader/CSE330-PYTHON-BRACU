@@ -1,7 +1,7 @@
-# Mr. Rafeed Rahman
+# Mr. Rafeed Rahman **(RRH)**
 [<img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Get it on GitHub" height="40">](https://docs.google.com/document/d/1iBB0qw32X-3nGlKcYcpWWIX0X0gQtUf4DEGzCzC9CLs/edit?usp=sharing)
 
-# Mr. Md. Aquib Azmain
+# Mr. Md. Aquib Azmain **(AQU)**
 - ## Mid :
   
    [<img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Get it on GitHub" height="40">](https://drive.google.com/drive/folders/17-QizJALELypGv67sxp2jn6XnVds3Hvx?usp=sharing)
